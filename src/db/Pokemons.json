@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Charmander",
+        "type": [
+            { "name": "Fuego", "strongAgainst": ["Planta"], "weakAgainst": ["Agua,Tierra"] }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+        "id": 2,
+        "name": "Squirtle",
+        "type": [
+            { "name": "Agua", "strongAgainst": ["Fuego,Tierra"], "weakAgainst": ["Planta"] }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+        "id": 3,
+        "name": "Bulbasaur",
+        "type": [
+            { "name": "Planta", "strongAgainst": ["Agua"], "weakAgainst": ["Fuego"] }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "id": 4,
+        "name": "Geodude",
+        "type": [
+            { "name": "Tierra", "strongAgainst": ["Fuego"], "weakAgainst": ["Agua"] }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
+    }        
+]
